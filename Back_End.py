@@ -1,4 +1,4 @@
-from Front-End import Front_End 
+from Front_End import Front_End 
 
 class Back_End(Front_End):
     '''Class that implements the Back-End for the Project'''
